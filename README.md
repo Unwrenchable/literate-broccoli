@@ -10,6 +10,6 @@ This repository now includes a lightweight, working "Randy-style" tech console i
 
 ## Run it
 
-Open `/home/runner/work/literate-broccoli/literate-broccoli/index.html` in a browser.
+Open `index.html` in a browser.
 
 No build step is required.
